@@ -1,0 +1,12 @@
+ID: #0189
+Name: Lucas
+Last Name: Rodriguez
+Age: 43
+city: mrocco
+-------------------
+ID: #0001
+Name: qwe
+Last Name: wer
+Age: 12
+city: 
+-------------------
