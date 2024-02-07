@@ -1,4 +1,4 @@
-# JavaManagementSystem
+# Java Management System
 
 JavaManagementSystem is a console-based educational management system implemented in Java. It provides functionality for managing forms, students, teachers, and modules through a modular and user-friendly interface.
 
